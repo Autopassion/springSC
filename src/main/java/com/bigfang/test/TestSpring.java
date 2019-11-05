@@ -27,6 +27,9 @@ public class TestSpring {
         System.out.println(person);
 		System.out.println(person);
 		System.out.println(person);
+		System.out.println(person);
+		System.out.println(person);
+		System.out.println(person);
     }
     
 }
