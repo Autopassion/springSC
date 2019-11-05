@@ -25,6 +25,8 @@ public class TestSpring {
         final AnnotationConfigApplicationContext annotationContext = new AnnotationConfigApplicationContext(AutoConfig.class);
         final Person  person = annotationContext.getBean(Person.class);
         System.out.println(person);
+		System.out.println(person);
+		System.out.println(person);
     }
     
 }
